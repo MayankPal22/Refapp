@@ -16,7 +16,7 @@ export function Header() {
               <a href="">About Us</a>
             </li>
             <li>
-              <a href="">Companies</a>
+              <a href="">Companies details</a>
             </li>
             <li>
               <a href="">Contact</a>
